@@ -1,0 +1,53 @@
+.Base {
+  background-color: #e3f2fd;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  height: 100%;
+  width: 120%;
+}
+.Base1 {
+  width: 100%;
+}
+.SearchBar1 {
+  width: 100%;
+}
+.TopGrid {
+}
+.OutSideCard {
+  width: 90%;
+  margin: auto;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.Typo {
+  text-align: center;
+}
+.DataCard {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  /* width: 250px; */
+}
+.Input {
+  width: 70%;
+  align-items: center;
+}
+.searchBar {
+  width: 70%;
+  margin: auto;
+}
+.MuiInputLabel-standard {
+  width: fit-content;
+  height: fit-content;
+  font-style: italic;
+}
+.MuiFormControl-root {
+  width: 100%;
+}
+.LabelText {
+  font-size: 20px !important;
+}
+.heading {
+  padding-bottom: -10px;
+  font-size: 30px;
+  font-style: italic;
+}
